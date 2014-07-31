@@ -1,4 +1,4 @@
-﻿#NAME "openbdict extra"
+#NAME "openbdict extra"
 #INDEX_LANGUAGE	"English"
 #CONTENTS_LANGUAGE "Bangla"
 
